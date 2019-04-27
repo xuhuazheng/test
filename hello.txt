@@ -2,3 +2,4 @@
 我很好，你呢
 二大爷
 文件改动，推送到798分支
+git push -u origin/test         #提交本地库到远程test分支
